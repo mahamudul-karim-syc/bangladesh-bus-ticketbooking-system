@@ -1,3 +1,5 @@
+# project name: Bungladesh Bus ticket system
+
 class Bus:
     def __init__(self,number,route,total_seats,row,col):
         self.number=number
